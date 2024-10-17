@@ -7,7 +7,6 @@ import {
   Reels,
   Chats,
   CreatePosts,
-  LogOut,
   Settings,
 } from "../../pages/dashboard";
 
